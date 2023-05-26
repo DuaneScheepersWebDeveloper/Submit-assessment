@@ -1,0 +1,19 @@
+{
+  "name": "template-project-with-jsdoc-and-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/numeral": "^2.0.2",
+    "jsdoc": "^4.0.2"
+  },
+  "dependencies": {
+    "numeral": "^2.0.6"
+  }
+}
