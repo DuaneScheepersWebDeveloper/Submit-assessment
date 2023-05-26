@@ -15,3 +15,7 @@ Section C
 I chose Option 1: Say the Number!
 ->Please see my sectionC.ts file in (src\section3.ts)
 ->Please Note there is a file that contains essential data for Section C (src\data\section3Data.ts)
+
+Section D
+Please click on the link to see my loom video
+https://www.loom.com/share/8720d3668f5f45689541319973449b39
